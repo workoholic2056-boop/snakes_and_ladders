@@ -1,0 +1,25 @@
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Udayo sapa lehhhhh.exe
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Udayo sapa lehhhhh.deps.json
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Udayo sapa lehhhhh.runtimeconfig.json
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Udayo sapa lehhhhh.dll
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Udayo sapa lehhhhh.pdb
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh_MarkupCompile.cache
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.g.resources
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.AssemblyInfoInputs.cache
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.AssemblyInfo.cs
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.csproj.CoreCompileInputs.cache
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.dll
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\refint\Udayo sapa lehhhhh.dll
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.pdb
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh.genruntimeconfig.cache
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\ref\Udayo sapa lehhhhh.dll
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Assets\dice_roll.wav.mp3
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\obj\Debug\net10.0-windows\Udayo sapa lehhhhh_Content.g.cs
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Assets\ladder_climb.mp3.mp3
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Assets\frog_jump.mp3.mp3
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Assets\move_step.mp3.mp3
+C:\Users\Prayush Shrestha\source\repos\Udayo sapa lehhhhh\Udayo sapa lehhhhh\bin\Debug\net10.0-windows\Assets\snake_slide.mp3.mp3
